@@ -15,11 +15,13 @@ To provide users a web application that can perform the following actions:
 
 ### Features 
 - **REST API** - Design and architecture.
-- **Node.js** - REST API implementation.
-- **Express** - REST API implementation.
-- **MongoDB** - Database. Used for testing. 
+- **MongoDB** - Database. Used for testing.
+- **JSON** - Resource representation.
+- **Spring MockMvc** - Testing. 
 - **Object Relation Mapping** - JPA annotations to map the model classes to a relational schema.
-- **Database Scripts** - SQL scripts to test.
+- **Database Scripts** - SQL scripts testing.
+
+
 
 
 
