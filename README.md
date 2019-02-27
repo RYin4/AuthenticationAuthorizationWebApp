@@ -13,6 +13,17 @@ To provide users a web application that can perform the following actions:
 - **Add an attendee to an event** - Function that adds a user to an events attendance. 
 - **Get all attendees of an event** - Function that retrieves the attendance of an event. 
 
+### Features 
+- **REST API** - Design and architecture.
+- **Node.js** - REST API implementation.
+- **Express** - REST API implementation.
+- **MongoDB** - Database. Used for testing. 
+- **Object Relation Mapping** - JPA annotations to map the model classes to a relational schema.
+- **Database Scripts** - SQL scripts to test.
+
+
+
+
 
 
 
