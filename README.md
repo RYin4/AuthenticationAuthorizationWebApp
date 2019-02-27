@@ -15,6 +15,10 @@ To provide users a web application that can perform the following actions:
 
 ### Features 
 - **REST API** - Design and architecture.
+- **Node.js** - 
+- **Express** - 
+- **Mongoose** - 
+- **Jasmine** - 
 - **MongoDB** - Database. Used for testing.
 - **JSON** - Resource representation.
 - **Spring MockMvc** - Testing. 
