@@ -1,4 +1,4 @@
-# Authenication / Authorization Web Application
+# Authentication / Authorization Web Application
 
 ### Purpose 
 To provide users a web application that can perform the following actions:
